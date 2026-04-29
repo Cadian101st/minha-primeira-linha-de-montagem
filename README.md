@@ -1,0 +1,1 @@
+[![Linha de Montagem Matrix](https://github.com/Cadian101st/minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/Cadian101st/minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml)
